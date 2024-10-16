@@ -1,0 +1,11 @@
+﻿  Button.cpp
+  Global.cpp
+  graph.cpp
+  main.cpp
+  Set.cpp
+  Shape.cpp
+  Shape2.cpp
+E:\proData\C++_PRO\vs\2_6 draw\project\Shape.cpp(216,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+E:\proData\C++_PRO\vs\2_6 draw\project\Shape2.cpp(72,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  正在生成代码...
+  project.vcxproj -> E:\proData\C++_PRO\vs\2_6 draw\Debug\project.exe
